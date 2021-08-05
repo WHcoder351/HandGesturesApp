@@ -1,0 +1,32 @@
+body{
+    color: aliceblue;
+    background: black;
+}
+.heading{
+    width: 75%;
+    font-size: 35px;
+}
+#CameraInput, #ToBClassified{
+    border-color: ghostwhite;
+    border-style: groove;
+    border-radius: 8px;
+    height: 250px;
+    width: 250px;
+}
+#HGStats{
+    border-radius: 15px;
+    border-color: grey;
+    border-style: ridge;
+    width: 350px;
+    height: 250px;
+    float: left;
+}
+
+#label{
+    border-radius: 5px;
+    border-color: grey;
+    border-style: ridge;
+    width: 355px;
+    height: 25px;
+    float: left;
+}
